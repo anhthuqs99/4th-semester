@@ -1,0 +1,10 @@
+release/drawing.o
+release/error_handler.o
+release/figure.o
+release/graph.o
+release/links.o
+release/main.o
+release/mainwindow.o
+release/point.o
+release/task_manager.o
+release/moc_mainwindow.o

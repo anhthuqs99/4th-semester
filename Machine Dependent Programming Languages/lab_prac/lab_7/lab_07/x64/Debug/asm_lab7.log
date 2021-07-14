@@ -1,0 +1,10 @@
+﻿  Assembling my_strncpy.asm...
+my_strncpy.asm(1): error A2008: syntax error : .
+my_strncpy.asm(2): error A2008: syntax error : .
+my_strncpy.asm(7): error A2070: invalid instruction operands
+my_strncpy.asm(9): error A2070: invalid instruction operands
+my_strncpy.asm(10): error A2070: invalid instruction operands
+my_strncpy.asm(32): error A2070: invalid instruction operands
+my_strncpy.asm(33): error A2070: invalid instruction operands
+my_strncpy.asm(34): error A2070: invalid instruction operands
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\my_strncpy.obj" /W3 /errorReport:prompt  /Tamy_strncpy.asm" exited with code 1.
